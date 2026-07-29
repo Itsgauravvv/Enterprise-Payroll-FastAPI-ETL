@@ -1,4 +1,4 @@
-
+#report_generator
 from tabulate import tabulate
 
 def display_table(records, headers):

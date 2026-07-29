@@ -6,7 +6,7 @@ Project     : Enterprise Employee Project and Payroll
 Description : Analytics Summary Model
 ==========================================================
 """
-
+# Analytics Model 
 from sqlalchemy import (
     Column,
     Integer,

@@ -1,11 +1,4 @@
-"""
-==========================================================
-File        : attendance_router.py
-Project     : Enterprise Employee Project and Payroll
-              Management System
-Description : Attendance FastAPI Router
-==========================================================
-"""
+#attendance_router
 
 from fastapi import (
     APIRouter,

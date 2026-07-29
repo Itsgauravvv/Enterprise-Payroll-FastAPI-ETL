@@ -1,12 +1,3 @@
-"""
-==========================================================
-File        : payroll_router.py
-Project     : Enterprise Employee Project and Payroll
-              Management System
-Description : Payroll FastAPI Router
-==========================================================
-"""
-
 from fastapi import (
     APIRouter,
     HTTPException,

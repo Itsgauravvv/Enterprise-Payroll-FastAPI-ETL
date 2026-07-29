@@ -1,12 +1,4 @@
-"""
-==========================================================
-File        : custom_exception.py
-Project     : Enterprise Employee Project and Payroll
-              Management System
-Description : Custom Exception Classes
-==========================================================
-"""
-
+#custon_exception
 class EmployeePayrollException(Exception):
     """
     Base Exception Class

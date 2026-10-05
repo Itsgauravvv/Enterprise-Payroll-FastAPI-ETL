@@ -1,4 +1,4 @@
-#attendence_model
+#attendance_model
 from sqlalchemy import Column, Integer, Date, String, ForeignKey
 from sqlalchemy.orm import relationship
 

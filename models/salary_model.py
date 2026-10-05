@@ -1,8 +1,8 @@
+
 from sqlalchemy import Column, Integer, Float, ForeignKey
 from sqlalchemy.orm import relationship
 
 from database import Base
-
 
 class Salary(Base):
 

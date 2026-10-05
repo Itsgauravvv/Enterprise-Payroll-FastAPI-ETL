@@ -3,7 +3,6 @@ from sqlalchemy.orm import relationship
 
 from database import Base
 
-
 class Project(Base):
 
     __tablename__ = "projects"
